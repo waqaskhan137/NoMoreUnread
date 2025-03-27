@@ -1,4 +1,4 @@
-# Gmail Inbox Manager
+# NoMoreUnread
 
 I do not like unread emails in my gmail.
 
